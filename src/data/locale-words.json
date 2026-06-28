@@ -1,0 +1,26 @@
+{
+  "en_US": {
+    "adjectives": ["Electric","Velvet","Silent","Broken","Golden","Midnight","Crimson","Frozen","Endless","Wild","Hollow","Bright","Lonely","Sacred","Burning","Faded","Lost","Reckless","Quiet","Distant","Heavy","Soft","Modern","Ancient","Plastic","Neon","Restless","Tender","Cold","Bitter","Sweet","Hidden","Fearless","Holy","Empty","Glass","Iron","Silver","Concrete","Liquid","Open","Secret","Last","First"],
+    "nouns": ["Heart","Highway","Dream","River","City","Wolf","Sun","Moon","Sky","Storm","Ghost","Fire","Ocean","Mountain","Letter","Road","Light","Shadow","Window","Mirror","Garden","Train","Engine","Machine","Wave","Stone","Memory","Smile","Tear","Kiss","Promise","Song","Dance","Saint","Saint","King","Queen","Soldier","Stranger","Lover","Daughter","Son","Bird","Flower","Cathedral","Bullet","Echo","Mountain","Diamond","Crown","Bridge","Avenue"],
+    "verbs": ["Run","Burn","Fall","Rise","Wait","Sing","Cry","Hold","Hide","Break","Drive","Dance","Bleed","Wake","Sleep","Dream","Fly","Drown","Carry","Forget","Remember","Believe"],
+    "genres": ["Rock","Pop","Indie Rock","Folk","Country","Hip-Hop","R&B","Jazz","Blues","Electronic","House","Techno","Ambient","Punk","Heavy Metal","Soul","Funk","Rock'n'Roll","Synthwave","Reggae","Dream Pop","Shoegaze","Garage Rock"],
+    "patterns": ["{adj} {noun}","{noun} of {noun}","The {noun}","{adj} {noun}s","{verb} the {noun}","{noun} & {noun}","No {noun}","{adj} {adj} {noun}","Don't {verb}","All My {noun}s","{noun} in the {noun}","When the {noun}s {verb}"],
+    "bandPatterns": ["The {adj} {noun}s","{noun} {noun}","{adj} {noun}","The {noun}s","{noun} & the {noun}s","{noun} Brothers","{noun} Sisters","{noun} Collective","Royal {noun}"]
+  },
+  "de_DE": {
+    "adjectives": ["Elektrische","Stille","Goldene","Mitternächtige","Kalte","Heiße","Verlorene","Endlose","Wilde","Helle","Einsame","Heilige","Brennende","Verblasste","Schwere","Weiche","Moderne","Alte","Plastik","Geheime","Letzte","Erste","Dunkle","Leise","Süße","Bittere","Versteckte","Furchtlose","Leere","Gläserne","Eiserne","Silberne","Offene","Blaue","Rote","Weiße","Schwarze","Junge","Tanzende"],
+    "nouns": ["Herz","Autobahn","Traum","Fluss","Stadt","Wolf","Sonne","Mond","Himmel","Sturm","Geist","Feuer","Meer","Berg","Brief","Straße","Licht","Schatten","Fenster","Spiegel","Garten","Zug","Maschine","Welle","Stein","Erinnerung","Lächeln","Träne","Kuss","Versprechen","Lied","Tanz","König","Königin","Soldat","Fremder","Liebhaber","Tochter","Sohn","Vogel","Blume","Kathedrale","Echo","Diamant","Krone","Brücke","Allee","Nacht","Tag","Engel"],
+    "verbs": ["Renne","Brenne","Falle","Steh","Warte","Singe","Weine","Halte","Tanze","Fliege","Vergiss","Erinnere","Glaube","Träume"],
+    "genres": ["Rock","Pop","Schlager","Volksmusik","Hip-Hop","Elektronische Musik","Techno","House","Punk","Heavy Metal","Jazz","Blues","Indie","Ambient","Synthwave","Liedermacher","Neue Deutsche Welle","Krautrock","Reggae"],
+    "patterns": ["{adj} {noun}","{noun} der {noun}","Das {noun}","Die {noun}","{adj} {noun}","{verb} mein {noun}","Ohne {noun}","Mein {noun}","Im {noun}","Zwischen {noun} und {noun}","Wenn die {noun} {verb}","Nacht der {noun}"],
+    "bandPatterns": ["Die {adj} {noun}","{noun} {noun}","{adj} {noun}","Die {noun}","{noun} und die {noun}","{noun} Kollektiv","Königliche {noun}"]
+  },
+  "uk_UA": {
+    "adjectives": ["Електричне","Тихе","Золоте","Опівнічне","Холодне","Гаряче","Загублене","Нескінченне","Дике","Світле","Самотнє","Святе","Палаюче","Зів'яле","Важке","М'яке","Сучасне","Стародавнє","Таємне","Останнє","Перше","Темне","Солодке","Гірке","Сховане","Безстрашне","Порожнє","Скляне","Залізне","Срібне","Відкрите","Синє","Червоне","Біле","Чорне","Юне","Танцююче","Вільне","Дивне"],
+    "nouns": ["Серце","Дорога","Сон","Річка","Місто","Вовк","Сонце","Місяць","Небо","Буря","Привид","Вогонь","Море","Гора","Лист","Шлях","Світло","Тінь","Вікно","Дзеркало","Сад","Потяг","Машина","Хвиля","Камінь","Спогад","Усмішка","Сльоза","Поцілунок","Обіцянка","Пісня","Танець","Король","Королева","Солдат","Незнайомець","Коханий","Донька","Син","Птах","Квітка","Собор","Луна","Діамант","Корона","Міст","Алея","Ніч","День","Ангел","Літо","Зима"],
+    "verbs": ["Біжу","Горю","Падаю","Чекаю","Співаю","Плачу","Тримаю","Танцюю","Лечу","Забудь","Згадай","Вір","Мрій"],
+    "genres": ["Рок","Поп","Народна","Хіп-хоп","Електронна","Техно","Хаус","Панк","Метал","Джаз","Блюз","Інді","Ембієнт","Реггі","Етно","Альтернатива","Романс","Українська естрада"],
+    "patterns": ["{adj} {noun}","{noun} {noun}","Це {noun}","{adj} {noun}","{verb} мене","Без {noun}","Мій {noun}","Між {noun} і {noun}","Коли {noun} {verb}","Ніч {noun}","У країні {noun}","Пісня про {noun}"],
+    "bandPatterns": ["Гурт {noun}","{adj} {noun}","{noun} і {noun}","Брати {noun}","Сестри {noun}","Колектив {noun}","Королівські {noun}"]
+  }
+}
