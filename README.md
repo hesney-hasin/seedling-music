@@ -5,6 +5,8 @@ A deterministic music discovery platform where every artist, album, song, cover,
 
 ---
 
+Link - [https://music-generator-self.vercel.app/](Live Demo)
+
 ## What It Does
 
 Seedling Music generates a full catalog of fake music — titles, artists, album art, reviews, and even playable songs — all from a single 64-bit seed. Change the seed, get a completely different world of music. Return to a seed, and the exact same catalog comes back.
