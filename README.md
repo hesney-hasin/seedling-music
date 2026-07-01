@@ -5,7 +5,7 @@ A deterministic music discovery platform where every artist, album, song, cover,
 
 ---
 
-Link - [https://music-generator-self.vercel.app/](Live Demo)
+Link - [Live Demo](https://music-generator-self.vercel.app/)
 
 ## What It Does
 
